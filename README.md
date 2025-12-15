@@ -287,21 +287,21 @@ We welcome contributions from the community! Here's how you can help:
 - ✅ Profile management
 - ✅ Community features
 
-### Phase 2 (Q1 2025)
+### Phase 2 (Q1 2026)
 - 🔄 Backend API integration
 - 🔄 Real-time job matching
 - 🔄 OAuth social login
 - 🔄 Email verification
 - 🔄 Password recovery
 
-### Phase 3 (Q2 2025)
+### Phase 3 (Q2 2026)
 - 📅 Mobile applications (iOS/Android)
 - 📅 Advanced AI recommendations
 - 📅 Video interviews
 - 📅 Employer dashboard
 - 📅 Analytics and reporting
 
-### Phase 4 (Q3 2025)
+### Phase 4 (Q3 2026)
 - 📅 Multi-language support
 - 📅 Regional expansion
 - 📅 Partner integrations
@@ -332,8 +332,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Include Me** is developed by a passionate team committed to creating inclusive technology.
 
-- **Project Lead**: [Your Name]
-- **Development Team**: [Team Members]
+- **Project Lead**: [Abrar]
+- **Development Team**: [Mohamed Ali , Alshimaa Mohamed , Nouran Ismail , Malak Ibrahim]
 - **Accessibility Consultants**: [Consultants]
 - **Community Managers**: [Managers]
 
